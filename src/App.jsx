@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import HomePage from "./pages/Home/HomePage"
+import HomePage from "./pages/home/HomePage"
 import Equipo from "./pages/Equipo/Equipo"
 import Crud from "./pages/crud/Crud"
 import CreatePage from "./pages/crud/CreatePage"
